@@ -10,13 +10,8 @@ html, body {
     height: 100%;
 }
 
-/* #body {
-    min-height: 100%;
-} */
-
 body {
     display: flex;
-    /* justify-content: space-between; */
     flex-direction: column;
     flex: 1 0 auto;
     background-image: url("../images/BGI.png");
@@ -169,8 +164,6 @@ input[type=submit]:focus {
 /* sticky footer - border-top: 8px solid #4aaaa5;*/
 
 .content2 {
-    /* display: flex;
-    flex-direction: column; */
     flex: 1 0 auto;
 }
 

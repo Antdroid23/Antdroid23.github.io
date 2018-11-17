@@ -106,6 +106,10 @@ nav ul li a:hover {
     width: auto;
 }
 
+p {
+    line-height: 30px;
+}
+
 /* Footer */
 /* sticky footer - border-top: 8px solid #4aaaa5;*/
 
